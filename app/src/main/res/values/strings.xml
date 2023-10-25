@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApp</string>
+
+    <string-array name="spinner">
+        <item>Excelente</item>
+        <item>Ótimo</item>
+        <item>Bom</item>
+        <item>Ruim</item>
+    </string-array>
+</resources>
